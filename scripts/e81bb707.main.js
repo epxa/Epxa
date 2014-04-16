@@ -1,0 +1,1 @@
+console.log("'Allo 'Allo!"),console.log("Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, amet, deleniti hic quas qui cumque delectus aliquid eius quia quod quae aliquam aspernatur facilis sunt numquam dolor molestias at consequatur.");
